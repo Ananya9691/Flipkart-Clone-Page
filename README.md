@@ -6,6 +6,11 @@ flipkart-clone/
 ├── index.html
 ├── style.css
 └── script.js
+
+
+
+
+
 HOW TO RUN:
 Option 1: Open Directly
 Just double-click index.html to open in your browser.
