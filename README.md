@@ -21,24 +21,24 @@ Open the folder in VS Code.
 Right-click on index.html → Open with Live Server.
 
 Features
-Product cards styled like Flipkart
+1)Product cards styled like Flipkart
 
-Login popup with username/password fields
+2)Login popup with username/password fields
 
-Welcomes user after login
+3)Welcomes user after login
 
-Fully responsive design
+4)Fully responsive design
 
-Future Additions
+5)Future Additions
 
-User registration
+6)User registration
 
-Cart and checkout UI
+7)Cart and checkout UI
 
-Dynamic filtering and search bar
+8)Dynamic filtering and search bar
 
 Author
-Made with 💙 by [Ananya Tiwary]
+Made with 💙 by Ananya Tiwary
 
 
 
